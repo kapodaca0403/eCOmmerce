@@ -18,7 +18,7 @@ This project is licensed under the MIT license.
 
 ## Description
 
-This is an insomnia demonstration on the products that are seeded in the data.A review of the products data would be the product tag, price, name and category on the backend for a e-commerce website.
+A review of the products data would be the product tag, price, name and category on the backend for a e-commerce website.
 
 ## Tests
 
