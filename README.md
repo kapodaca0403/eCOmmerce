@@ -19,7 +19,7 @@ This project is licensed under the MIT license.
 ## Description
 <img width="500" alt="ecompicPNG" src="https://user-images.githubusercontent.com/87509827/134803184-5f552698-dc9e-494b-825e-703f3332108e.PNG">
 A review of the products data would be the product tag, price, name and category on the backend for a e-commerce website.
-
+The video Walk thru: https://youtu.be/F7_r0FO8HMI && https://youtu.be/Gu8tNI6dPIY
 ## Tests
 
 undefined
