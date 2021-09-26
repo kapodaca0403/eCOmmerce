@@ -7,7 +7,7 @@ const { restore } = require("../../models/Product");
 router.get("/", async (req, res) => {
   try {
     const cateData = await Category.findAll({
-      include: [{ model: Category }, { model: Product }],
+      include: [{ model: Product }],
     });
     res.status(200).json(cateData);
   } catch (err) {
@@ -20,7 +20,7 @@ router.get("/", async (req, res) => {
 router.get("/:id", async (req, res) => {
   try {
     const cateData = await Category.FindbyPk(req.params.id, {
-      include: [{ model: Category }, { model: Product }],
+      include: [{ model: Product }],
     });
 
     if (!cateData) {
