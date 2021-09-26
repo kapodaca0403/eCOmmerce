@@ -17,6 +17,7 @@
 This project is licensed under the MIT license.
 
 ## Description
+![ecomhw](https://user-images.githubusercontent.com/87509827/134802831-437d94ef-89c1-4483-ab3d-1128b25a3868.gif)
 
 A review of the products data would be the product tag, price, name and category on the backend for a e-commerce website.
 
